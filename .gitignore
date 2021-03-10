@@ -68,3 +68,7 @@ buildNumber.properties
 *.jpg
 *.zip
 *.pdf
+##########################
+## Relatorio
+##########################
+Report/*
